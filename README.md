@@ -23,7 +23,9 @@ https://github.com/remazahmedebrahem1999-jpg/Remaz-Ahmed-Ebrahem-portfolio-/blob
 https://github.com/remazahmedebrahem1999-jpg/Remaz-Ahmed-Ebrahem-portfolio-/blob/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%B9%D9%8A%20%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%20(1).pdf
 تعلمت من هذا المشروع كيفية تكييف الرسائل حسب احتياجات الجمهور، وفهم توقعاتهم وخبراتهم، لضمان وصول المعلومة بشكل واضح وفعال.
 
-### مشروع 3 – أساسيات الراوتر
+### Project 3 : User Manual (Draft)
+https://github.com/remazahmedebrahem1999-jpg/Remaz-Ahmed-Ebrahem-portfolio-/blob/main/My%20file%20.pdf
+
 تضمن هذا المشروع شرح وظيفة الراوتر، كيفية عمله، وأنواعه المختلفة (منزلي، تجاري، وشبكة واسعة)، وأهمية الراوتر في الشبكات.
 
 ### Project 4 : Self-Assessment Reflection
