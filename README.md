@@ -15,7 +15,7 @@
 
 ## my projects :
 
-### مشروع 1 – أساسيات الاتصال التقني
+### Project 1 :https://github.com/remazahmedebrahem1999-jpg/Remaz-Ahmed-Ebrahem-portfolio-/blob/main/%D9%85%D9%84%D9%81%20%D9%A1%20(3).pdf
 ركز هذا المشروع على فهم أساسيات الاتصال التقني، وكيفية توصيل المعلومات بدقة، والتغلب على العوائق في بيئة العمل التقنية.
 
 ### Project 2 :https://github.com/remazahmedebrahem1999-jpg/Remaz-Ahmed-Ebrahem-portfolio-/blob/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%B9%D9%8A%20%D8%A8%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%20(1).pdf
